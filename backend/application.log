@@ -1,0 +1,45 @@
+[ERROR] connectin error: Unknown database 'autoberlesx'
+[ERROR] query error: 
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Unknown column 'autoId' in 'field list'
+[ERROR] query error: Unknown column 'autoId' in 'field list'
+[ERROR] query error: Unknown column 'autoId' in 'field list'
+[ERROR] query error: Unknown column 'autoId' in 'field list'
+[ERROR] query error: Table 'kutyak.users' doesn't exist
+[ERROR] query error: Table 'kutyak.users' doesn't exist
+[ERROR] query error: Table 'kutyak.users' doesn't exist
+[ERROR] query error: Table 'kutyak.users' doesn't exist
+[ERROR] query error: Table 'kutyak.users' doesn't exist
+[ERROR] query error: Table 'kutyak.kutyaoltasok' doesn't exist
+[ERROR] query error: Table 'kutyak.kutyaoltasok' doesn't exist
+[ERROR] query error: Table 'kutyak.kutyaoltasok' doesn't exist
+[ERROR] query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'kn.kutyaNaploId,k.nev,kn.datum, e.esemeny FROM kutyanaplo kn
+        INNER J...' at line 1
+[ERROR] query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'kn.kutyaNaploId,k.nev,kn.datum, e.esemeny FROM kutyanaplo kn
+        INNER J...' at line 1
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
+[ERROR] query error: Query was empty
