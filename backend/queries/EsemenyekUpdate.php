@@ -17,8 +17,8 @@ class EsemenyekUpdate extends ParentUpdate{
         $this->sql = "UPDATE esemenyek SET esemeny = ? WHERE esemenyId = ?;";
         $this->typesString = "si";
         $this->paramVariables = [
-            $params["esemenyId"],
-            $params["esemeny"]
+            $params["esemeny"],
+            $params["esemenyId"]
         ];
         $this->columns = [];
 

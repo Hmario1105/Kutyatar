@@ -17,8 +17,8 @@ class KutyaoltasokUpdate extends ParentUpdate{
         $this->sql = "    UPDATE kutyakoltasok SET kutyaId = ? AND oltasId = ? WHERE kutyaId = ? AND oltasId = ?;";
         $this->typesString = "ii";
         $this->paramVariables = [
-            $params["oltasId"],
-            $params["kutyaId"]
+            $params["kutyaId"],
+            $params["oltasId"]
         ];
         $this->columns = [];
 

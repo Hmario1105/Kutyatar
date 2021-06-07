@@ -20,17 +20,17 @@ class KutyakUpdate extends ParentUpdate{
     public function __construct($params){
         parent::__construct($params);
         $this->title = "Kutyak update";
-        $this->sql = "UPDATE kutyak SET nev = ?,fajtaId = ?, szuletes = ?,suly = ?,magassag = ?, foto = ?,ertek = ? WHERE kutyaId = ?;";
+        $this->sql = "UPDATE kutyak SET nev = ?,fajtaId = ?,  szuletes = ?,suly = ?,magassag = ?, foto = ?,ertek = ? WHERE kutyaId = ?;";
         $this->typesString = "siiiisii";
         $this->paramVariables = [
-            $params["kutyaId"],
             $params["nev"],
             $params["fajtaId"],
             $params["szuletes"],
             $params["suly"],
             $params["magassag"],
             $params["foto"],
-            $params["ertek"]
+            $params["ertek"],
+            $params["kutyaId"]
         ];
         $this->columns = [];
 
