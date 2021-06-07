@@ -33,6 +33,7 @@ class KutyakUpdate extends ParentUpdate{
             $params["kutyaId"]
         ];
         $this->columns = [];
+        
 
     }
 }
